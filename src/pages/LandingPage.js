@@ -5,6 +5,7 @@ export default class LandingPage extends Component {
   render() {
     return (
       <>
+        {/* Ambil semua props yang ada pada Header */}
         <Header {...this.props} />
       </>
     );
