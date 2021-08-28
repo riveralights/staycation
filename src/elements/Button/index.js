@@ -94,6 +94,7 @@ Button.propTypes = {
   isDisabled: propTypes.bool, // Bentuknya berupa boolean
   isLoading: propTypes.bool,
   isSmall: propTypes.bool,
+  isPrimary: propTypes.bool,
   isLarge: propTypes.bool,
   isBlock: propTypes.bool,
   isExternal: propTypes.bool,

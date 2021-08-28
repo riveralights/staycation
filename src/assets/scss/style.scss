@@ -64,15 +64,21 @@ header {
   .navbar {
     height: 80px;
 
+    .navbar-brand {
+      font-size: 36px;
+    }
+
     ul.navbar-nav {
       li.nav-item {
+        font-weight: 400;
+
         &.active {
           font-weight: 700;
         }
 
         a {
           &.nav-link {
-            letter-spacing: 1px;
+            font-size: 18px;
             color: $gray-900;
             padding-left: 1rem;
             padding-right: 1rem;
@@ -84,5 +90,48 @@ header {
         }
       }
     }
+  }
+}
+
+section.hero {
+  margin-top: 70px;
+
+  h1.tagline {
+    font-weight: 700;
+    font-size: 46px;
+    font-family: "Oxygen", sans-serif;
+  }
+
+  p.hero-description {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+  }
+
+  .btn-cta {
+    padding: 8px 42px;
+    margin-bottom: 26px;
+    margin-top: 16px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Oxygen", sans-serif;
+    color: #cce5ec;
+  }
+
+  .icon-hero {
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+
+    span.banner-label {
+      font-weight: 400;
+    }
+  }
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 575.98px) {
+  .icon-hero:last-child {
+    margin-top: 20px;
   }
 }
