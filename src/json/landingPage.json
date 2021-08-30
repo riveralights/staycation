@@ -59,114 +59,114 @@
   "categories": [
     {
       "_id": "asd1293uasdads1",
-      "name": "House with beauty backyard",
+      "name": "House with Backyard",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "Queen Padusi",
           "imageUrl": "/images/image-category-1.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": true
+          "province": "West Sumatra",
+          "city": "Pariaman",
+          "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "Monggo Tinggal",
           "imageUrl": "/images/image-category-2.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
+          "province": "Yogyakarta",
+          "city": "Wonosari",
+          "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "Harmony Village",
           "imageUrl": "/images/image-category-3.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
+          "province": "Lombok",
+          "city": "Mataram",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "Marisokin",
           "imageUrl": "/images/image-category-4.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
+          "province": "West Java",
+          "city": "Bogor",
           "isPopular": false
         }
       ]
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Hotels with large living room",
+      "name": "Hotels with Large Living Room",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "Sweet Hometown",
           "imageUrl": "/images/image-category-5.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
+          "province": "West Borneo",
+          "city": "Pontianak",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "Salawasna",
           "imageUrl": "/images/image-category-6.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
+          "province": "West Java",
+          "city": "Tasikmalaya",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "Octavio Suite",
           "imageUrl": "/images/image-category-7.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
+          "province": "West Nusa Tenggara",
+          "city": "Lopokloka",
+          "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "Burnhangger",
           "imageUrl": "/images/image-category-8.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": true
+          "province": "South Jakarta",
+          "city": "Kalibata",
+          "isPopular": false
         }
       ]
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Apartments with kitchen set",
+      "name": "Apartments with Kitchen Set",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "Madelleine",
           "imageUrl": "/images/image-category-9.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-10.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-11.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
+          "province": "North Jakarta",
+          "city": "Angke",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "Kerasan",
+          "imageUrl": "/images/image-category-10.jpg",
+          "province": "Mojokerto",
+          "city": "East Java",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Lembur Batur",
+          "imageUrl": "/images/image-category-11.jpg",
+          "province": "West Java",
+          "city": "Sukabumi",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Silvana Apartments",
           "imageUrl": "/images/image-category-12.jpg",
-          "province": "South Korea",
-          "city": "Seoul Flore",
+          "province": "North Sumatra",
+          "city": "Medan",
           "isPopular": false
         }
       ]
