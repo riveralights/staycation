@@ -7,53 +7,53 @@
   "mostPicked": [
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Blue Lagoon",
       "type": "Apartment",
-      "imageUrl": "/images/image-mostpicked-1.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
-      "unit": "night"
+      "imageUrl": "/images/most-picked-1.jpg",
+      "province": "Bali",
+      "city": "Denpasar",
+      "price": "30",
+      "unit": "Night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "The People House",
+      "name": "Floating Point",
       "type": "Hotel",
-      "imageUrl": "/images/image-mostpicked-2.jpg",
-      "country": "Indonesia",
-      "city": "Bogor",
-      "price": "52",
-      "unit": "night"
+      "imageUrl": "/images/most-picked-2.jpg",
+      "province": "West Java",
+      "city": "Bandung",
+      "price": "25",
+      "unit": "Night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "House Tour",
+      "name": "Floresia",
       "type": "Rumah",
-      "imageUrl": "/images/image-mostpicked-3.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
-      "unit": "night"
+      "imageUrl": "/images/most-picked-3.jpg",
+      "province": "East Nusa Tenggara",
+      "city": "Flores",
+      "price": "20",
+      "unit": "Night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Youth South",
       "type": "Apartment",
-      "imageUrl": "/images/image-mostpicked-4.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
-      "unit": "night"
+      "imageUrl": "/images/most-picked-4.jpg",
+      "province": "South Sumatra",
+      "city": "Palembang",
+      "price": "20",
+      "unit": "Night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Bintang Senja",
       "type": "Apartment",
-      "imageUrl": "/images/image-mostpicked-5.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "imageUrl": "/images/most-picked-5.jpg",
+      "province": "West Papua",
+      "city": "Manokwari",
       "price": "80",
-      "unit": "night"
+      "unit": "Night"
     }
   ],
   "categories": [
@@ -65,7 +65,7 @@
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
           "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": true
         },
@@ -73,7 +73,7 @@
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
           "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         },
@@ -81,7 +81,7 @@
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
           "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         },
@@ -89,7 +89,7 @@
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         }
@@ -103,7 +103,7 @@
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
           "imageUrl": "/images/image-category-5.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         },
@@ -111,7 +111,7 @@
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
           "imageUrl": "/images/image-category-6.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         },
@@ -119,7 +119,7 @@
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
           "imageUrl": "/images/image-category-7.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         },
@@ -127,7 +127,7 @@
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-8.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": true
         }
@@ -141,7 +141,7 @@
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
           "imageUrl": "/images/image-category-9.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         },
@@ -149,7 +149,7 @@
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
           "imageUrl": "/images/image-category-10.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         },
@@ -157,7 +157,7 @@
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
           "imageUrl": "/images/image-category-11.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": true
         },
@@ -165,7 +165,7 @@
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-12.jpg",
-          "country": "South Korea",
+          "province": "South Korea",
           "city": "Seoul Flore",
           "isPopular": false
         }
