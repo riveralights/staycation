@@ -7,14 +7,14 @@ export default function Footer() {
     <footer>
       <div className="container">
         <div className="row align-items-center">
-          <div className="col-md-3">
+          <div className="col-auto">
             <IconText />
             <p className="footer-tagline">
               Yours truly website that served best place to stay for your
               partners and family.
             </p>
           </div>
-          <div className="col-md-3">
+          <div className="col-auto">
             <h5 class="footer-list-title">Start Your Journey</h5>
             <ul class="list-unstyled">
               <li>
@@ -34,7 +34,7 @@ export default function Footer() {
               </li>
             </ul>
           </div>
-          <div className="col-md-3">
+          <div className="col-auto">
             <h5 class="footer-list-title">Explore Us</h5>
             <ul class="list-unstyled">
               <li>
@@ -54,7 +54,7 @@ export default function Footer() {
               </li>
             </ul>
           </div>
-          <div className="col-md-3">
+          <div className="col-auto">
             <h5 class="footer-list-title">Getting Touch with Us</h5>
             <ul class="list-unstyled">
               <li>
