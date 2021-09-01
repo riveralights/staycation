@@ -338,6 +338,44 @@ section.testimonials {
   }
 }
 
+footer {
+  border-top: 1px solid #e5e5e5;
+  padding-top: 50px;
+
+  .footer-copyright {
+    padding: 50px 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #72958c;
+  }
+
+  .footer-tagline {
+    font-family: "Open Sans", sans-serif;
+    color: #72958c;
+    font-size: 18px;
+    font-weight: 400;
+    width: 262px;
+    margin-top: 20px;
+  }
+
+  .footer-list-title {
+    font-family: "Oxygen", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #0a8573;
+    padding-bottom: 20px;
+  }
+
+  .list-unstyled > li {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #72958c;
+    margin-bottom: 8px;
+  }
+}
+
 .img-cover {
   object-fit: cover;
   height: 100%;
